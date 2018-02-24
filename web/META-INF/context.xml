@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/Farmer360">
+  <Resource auth="Container" driverClassName="com.mysql.jdbc.Driver" maxActive="10" maxIdle="4" name="organickmartdb" password="shringiishaan" type="javax.sql.DataSource" url="jdbc:mysql://127.0.0.1:3306/organickmart_db?useSSL=false" username="shringiishaan"/>
+</Context>
